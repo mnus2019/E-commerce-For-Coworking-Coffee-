@@ -1,0 +1,24 @@
+
+  .card:hover{
+    cursor: pointer;
+  }
+  .medalImg{
+    height: 200px;
+    width: 400px;
+  }
+  .mediaImg:hover {
+    opacity: 1.5;
+    -webkit-transition: opacity 1s;
+    transition: opacity 1s;
+}
+  
+
+  .paragraph{
+    display: none;
+  }
+  .background{
+    background-image: url(./img/coffeeImg/AmericanCoffee.webp);
+    height: 90px;
+    width: 160px;
+    background-position: top center;
+  }
