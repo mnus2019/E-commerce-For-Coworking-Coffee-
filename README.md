@@ -1,7 +1,7 @@
 # E-commerece Coworking And Coffee
 
 
-![Chat Application](..READmeImg/homescreen.png)     ![Chat Application](..READmeImg/coffeescreen.png)
+![Chat Application](../READmeImg/homescreen.png)     ![Chat Application](../READmeImg/coffeescreen.png)
 
 ## Introduction
 This is a code repository for the corresponding E-commerece Coworking And Coffee with Bootstrap, the world’s most popular framework for building responsive, mobile-first sites, with BootstrapCDN and a template starter page.
