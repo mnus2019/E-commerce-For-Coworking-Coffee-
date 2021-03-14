@@ -1,6 +1,6 @@
 # E-commerece Coworking And Coffee
 
-![Boostrap Application](../READmeImg/homescreen.png) ![Bootstrap Application](../READmeImg/coffeescreen.png)
+![Boostrap Application](./READmeImg/homescreen.png) ![Bootstrap Application](./READmeImg/coffeescreen.png)
 
 ## Introduction
 
